@@ -87,3 +87,6 @@ https://taoa.io/posts/Understanding-KZG10-Polynomial-Commitments
 https://0xparc.org/blog/groth16-recursion
 
 
+## 20240730
+https://www.youtube.com/watch?v=L3qMBzPgfWY
+
