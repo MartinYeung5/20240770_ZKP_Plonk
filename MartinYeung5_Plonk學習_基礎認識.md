@@ -151,3 +151,5 @@ Plonkish算术化是PLONK證明系統特有的算术化
 
 另外，新增一條約束後的矩陣Q表格會是這個:
 ![alt text](https://github.com/MartinYeung5/20240770_ZKP_Plonk/blob/main/lesson2_5.png?raw=true)
+
+當拉格朗日插值需要滿足QL[0,1,0,0]時，即f(0)=0, f(1)=1, f(2)=0, f(3)=0 . 
