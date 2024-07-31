@@ -116,5 +116,10 @@ Plonkish算术化是PLONK證明系統特有的算术化
 * 為了能對加法門和乘法門進行區分，會以這個表格作展示:
 
 ![alt text](https://github.com/MartinYeung5/20240770_ZKP_Plonk/blob/main/lesson2_4.png?raw=true)
-* qL 是指左輸入
-* qR 是指右輸入
+
+* QL 和 QR 來表示加法門的輸入
+* QL 是指左輸入
+* QR 是指右輸入
+
+* QM 表示乘法門
+* 
