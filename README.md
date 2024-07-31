@@ -3,7 +3,7 @@
 ## reference
 * https://docs.github.com/zh/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions
 
-* 
+* https://en.wikibooks.org/wiki/LaTeX/Mathematics
 
 ## 20240730
 1. 文章更新 - lesson 1 (MartinYeung5_Plonk學習_基礎認識)
