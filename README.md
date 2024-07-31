@@ -12,4 +12,6 @@
 1. 文章更新 - lesson 2 (MartinYeung5_Plonk學習_基礎認識)
 2. 新增4張圖片
 3. 文章更新 - lesson 3 (MartinYeung5_Plonk學習_基礎認識)
-https://www.youtube.com/watch?v=bNGac1CJEKM
+* https://www.youtube.com/watch?v=bNGac1CJEKM
+理解 PLONK（二）：多项式编码
+* https://learn.z2o-k7e.world/plonk-intro-cn/plonk-lagrange-basis.html
