@@ -96,5 +96,5 @@ Plonkish算术化是PLONK證明系統特有的算术化
 學習了加法門和乘法門在運算符中的區分
 ![alt text](https://github.com/MartinYeung5/20240770_ZKP_Plonk/blob/main/lesson2_1.png?raw=true)
 
-qL 是指左輸入
-qR 是指右輸入
+* qL 是指左輸入
+* qR 是指右輸入
