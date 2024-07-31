@@ -106,7 +106,7 @@ Plonkish算术化是PLONK證明系統特有的算术化
 
 * 以下是一個矩陣W列表:
 
-![alt text](https://github.com/MartinYeung5/20240770_ZKP_Plonk/blob/main/lesson2_1.png?raw=true)
+![alt text](https://github.com/MartinYeung5/20240770_ZKP_Plonk/blob/main/lesson2_3.png?raw=true)
 
 * qL 是指左輸入
 * qR 是指右輸入
