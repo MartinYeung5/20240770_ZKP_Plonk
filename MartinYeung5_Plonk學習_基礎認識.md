@@ -98,7 +98,9 @@ Plonkish算术化是PLONK證明系統特有的算术化
 ![alt text](https://github.com/MartinYeung5/20240770_ZKP_Plonk/blob/main/lesson2_2.png?raw=true)
 1. 有3個門、6個輸入及1個輸出
 2. 滿足了3個約束。
-    2.1 
+    2.1 X1 + X2 = X6
+    2.2 X3 * X4 = X5
+    2.3 X6 * X5 = OUT
 
 ![alt text](https://github.com/MartinYeung5/20240770_ZKP_Plonk/blob/main/lesson2_1.png?raw=true)
 
