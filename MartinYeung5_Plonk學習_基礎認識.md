@@ -104,7 +104,7 @@ Plonkish算术化是PLONK證明系統特有的算术化
     * X6 * X5 = OUT
 
 
-* 以下是一個矩陣W列表:
+* 以下是一個矩陣W表格:
 
 ![alt text](https://github.com/MartinYeung5/20240770_ZKP_Plonk/blob/main/lesson2_3.png?raw=true)
 
@@ -113,7 +113,7 @@ Plonkish算术化是PLONK證明系統特有的算术化
 第3列是指第2個門，會看到X1是指左輸入、X2是指右輸入及X6是指輸出。
 第4列是指第3個門，會看到X3是指左輸入、X4是指右輸入及X5是指輸出。
 
-* 為了能對加法門和乘法門進行區分，會以這個表格作展示:
+* 為了能對加法門和乘法門進行區分，會以這個矩陣Q表格作展示:
 
 ![alt text](https://github.com/MartinYeung5/20240770_ZKP_Plonk/blob/main/lesson2_4.png?raw=true)
 
