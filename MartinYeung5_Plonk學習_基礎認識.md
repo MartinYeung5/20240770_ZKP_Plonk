@@ -149,3 +149,4 @@ Plonkish算术化是PLONK證明系統特有的算术化
 * 第4列是沒有指向任何門，只是其中一個輸出約束，左輸入是0、右輸入是0及輸出是99。
 
 另外，新增一條約束後的矩陣Q表格會是這個:
+![alt text](https://github.com/MartinYeung5/20240770_ZKP_Plonk/blob/main/lesson2_5.png?raw=true)
