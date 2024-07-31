@@ -108,6 +108,7 @@ Plonkish算术化是PLONK證明系統特有的算术化
 
 ![alt text](https://github.com/MartinYeung5/20240770_ZKP_Plonk/blob/main/lesson2_3.png?raw=true)
 
-* 在表格中的第一列是各欄的標題，i是指門、 WL是指左輸入、WR是指右輸入及WO是指輸出。
+* 在表格中的第1列是各欄的標題，i是指門、 WL是指左輸入、WR是指右輸入及WO是指輸出。
+第2列是指第1個門，會看到X6是指左輸入、X5是指右輸入及OUT是指輸出
 * qL 是指左輸入
 * qR 是指右輸入
