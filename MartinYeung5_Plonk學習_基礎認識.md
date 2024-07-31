@@ -101,6 +101,8 @@ Plonkish算术化是PLONK證明系統特有的算术化
     * X1 + X2 = X6
     * X3 * X4 = X5
     * X6 * X5 = OUT
+
+
 * 以下是一個矩陣W列表:
 
 ![alt text](https://github.com/MartinYeung5/20240770_ZKP_Plonk/blob/main/lesson2_1.png?raw=true)
