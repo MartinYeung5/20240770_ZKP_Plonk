@@ -94,7 +94,7 @@ https://www.youtube.com/watch?v=L3qMBzPgfWY
 Plonkish算术化是PLONK證明系統特有的算术化
 在Plonkish出現之前，其實主流的電路表達形式都是為RICS，而這表達形式已被多個零知識證明算法所使用，包括Groth16。
 學習了加法門和乘法門在運算符中的區分。
-* 以下使用圖片配合說明:
+* 以下是一個電路例子:
 ![alt text](https://github.com/MartinYeung5/20240770_ZKP_Plonk/blob/main/lesson2_2.png?raw=true)
 
 
