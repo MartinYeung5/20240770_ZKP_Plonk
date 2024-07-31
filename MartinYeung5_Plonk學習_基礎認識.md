@@ -137,7 +137,7 @@ Plonkish算术化是PLONK證明系統特有的算术化
 完成後編譯，可以將結果發送給Verifier。
 現在在矩陣W加多一項約束，約束是最終輸出是99。
 因此，新增一條約束後的矩陣W表格會是這個:
-![alt text](https://github.com/MartinYeung5/20240770_ZKP_Plonk/blob/main/lesson2_5.png?raw=true)
+![alt text](https://github.com/MartinYeung5/20240770_ZKP_Plonk/blob/main/lesson2_6.png?raw=true)
 
 
 * 由於只是新增輸出一項約束，不會影響算術門的數量及輸入的值。
