@@ -75,7 +75,7 @@ polynomial commitment
 * https://www.zkdocs.com/docs/zkdocs/protocol-primitives/fiat-shamir/
 
 2. zkSNARK是如何組成的 — 1
-https://medium.com/swf-lab/zksnark%E6%98%AF%E5%A6%82%E4%BD%95%E7%B5%84%E6%88%90%E7%9A%84-1-2c6a474bcb06
+* https://medium.com/swf-lab/zksnark%E6%98%AF%E5%A6%82%E4%BD%95%E7%B5%84%E6%88%90%E7%9A%84-1-2c6a474bcb06
 
 3. Zero Knowledge Proofs: Example with Pedersen Commitments in Monero
 https://medium.com/coinmonks/zero-knowledge-proofs-um-what-a092f0ee9f28
