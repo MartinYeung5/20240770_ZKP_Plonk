@@ -322,3 +322,6 @@ a^{\prime} = (a_{i}, i) , b^{\prime} = (b_{i}, σ(i))
 ```math
 \vdots , \vdots
 ```
+```math
+(a_{n-1}, n-1) , (b_{n-1} = a_{n}, n)
+```
