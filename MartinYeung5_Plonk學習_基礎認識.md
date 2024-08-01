@@ -70,7 +70,7 @@ polynomial commitment
 例子 : KZG10, IPM, FRI
 這裡不是單單驗證一件事，而是驗證整個多項式。
 
-參考:
+#### 參考文章:
 1. Fiat-Shamir transformation 
 * https://www.zkdocs.com/docs/zkdocs/protocol-primitives/fiat-shamir/
 
