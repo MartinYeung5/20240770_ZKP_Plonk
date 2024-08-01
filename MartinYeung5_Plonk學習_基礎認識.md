@@ -268,4 +268,7 @@ L_{0}(X)*(r(X) - 1) + q(X)*r(X) - r(w.X) = 0 ,∀X∈H
   ```math
 L_{0}(X)*(r(X) - 1) + α*q(X)*r(X) - r(w.X) = 0 ,∀X∈H
  ```
+   ```math
+L_{0}(X)*(r(X) - 1) + α*q(X)*r(X) - r(w.X) = h(X)*Z_{H}(X) ,∀X∈H
+ ```
 ### 如何利用連乘證明來實現Multiset等價證明（Multiset Equality Argument）
