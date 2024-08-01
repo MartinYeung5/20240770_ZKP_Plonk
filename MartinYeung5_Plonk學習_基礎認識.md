@@ -87,8 +87,7 @@ polynomial commitment
 * https://0xparc.org/blog/groth16-recursion
 
 
-## 20240730
-ZKP系列课程｜PLONK算术化
+## PLONK算術化
 https://www.youtube.com/watch?v=L3qMBzPgfWY
 
 Plonkish算术化是PLONK證明系統特有的算术化
