@@ -265,7 +265,7 @@ q(X)*r(X) - r(w.X) = 0 ,∀X∈H
  ```math
 L_{0}(X)*(r(X) - 1) + q(X)*r(X) - r(w.X) = 0 ,∀X∈H
  ```
-  ```math
+```math
 L_{0}(X)*(r(X) - 1) + α*q(X)*r(X) - r(w.X) = 0 ,∀X∈H
  ```
 ```math
