@@ -382,3 +382,7 @@ w_{a,1} = w_{c,2}, w_{b,1} = w_{c,3}, w_{c,0} = w_{c,1}
 ```
 * 對表格中的三列向量用三個置換向量統一地進行位置編碼，結果如下:
 ![alt text](https://github.com/MartinYeung5/20240770_ZKP_Plonk/blob/main/lesson5_2.png?raw=true)
+置換後的向量為:
+```math
+σ_{a} , σ_{b} , σ_{c}
+```
