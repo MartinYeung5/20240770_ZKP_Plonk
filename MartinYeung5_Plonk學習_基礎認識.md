@@ -228,3 +228,6 @@ Plonk 的複製約束是通過置換證明（Permutation Argument）來實現。
 可以看到，WL1 = WO2, WR1 = WO3, WO1 = WO4 。而置換證明可以通過轉換它們的位置，然後再證明置換後的新矩陣是等於矩陣W。
 
 ### Grand Product
+由於進行多項式編碼，會把多個單乘法壓縮成單次乘法的驗證。
+
+### 如何利用連乘證明來實現Multiset等價證明（Multiset Equality Argument）
