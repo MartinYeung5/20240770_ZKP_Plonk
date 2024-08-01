@@ -215,5 +215,5 @@ a(X)⋅b(X)=c(X),∀X∈H
 a(X)⋅b(X)−c(X)=q(X)⋅z H(X),∀X∈F
  ```
 在公式上可以看到a(X)⋅b(X)−c(X)會等於0，所以q(X)⋅z H(X)也會等於0。
-換言之，在X∈H的條件下，H會是a(X)⋅b(X)−c(X)的根集合。
+換言之，在X∈H的條件下，H會是a(X)⋅b(X)−c(X)的根集合。因為X必須要使到a(X)⋅b(X)−c(X)等於0。
 因為可以進一步地去使用多項式承諾(Polynomial Commitment)，讓Prover負責計算x在某一任意地方的值，然後發送證明，這樣Verifier的工作量可以減少。
