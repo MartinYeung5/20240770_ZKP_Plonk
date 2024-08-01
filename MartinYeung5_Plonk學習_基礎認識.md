@@ -235,4 +235,9 @@ Plonk 的複製約束是通過置換證明（Permutation Argument）來實現。
 r_{0} = 1
  ```
  *  r是每一個對上計算的結果(Accumulator)
+ ```math
+r_{k+1} = q_{k}*r_{k}
+ ```
+
+
 ### 如何利用連乘證明來實現Multiset等價證明（Multiset Equality Argument）
