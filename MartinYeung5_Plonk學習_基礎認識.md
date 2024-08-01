@@ -243,4 +243,7 @@ r_{k+1} = q_{k}*r_{k}
 L_{0}*(r(X)-1) = 0 ,∀X∈F
  ```
  第2個約束的公式是:
+  ```math
+q(X)*r(X) = r(w.X) ,∀X∈F∖{ω−1}
+ ```
 ### 如何利用連乘證明來實現Multiset等價證明（Multiset Equality Argument）
