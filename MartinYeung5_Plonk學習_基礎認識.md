@@ -259,4 +259,7 @@ L_{n-1}*(r(X)-r_{n-1}) = 0 ,∀X∈H
 q(X)*r(X) = r(w.X) ,∀X∈H
  ```
 最後得出可以驗證的多項式:
+```math
+q(X)*r(X) - r(w.X) = 0 ,∀X∈H
+ ```
 ### 如何利用連乘證明來實現Multiset等價證明（Multiset Equality Argument）
