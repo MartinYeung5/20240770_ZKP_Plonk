@@ -290,3 +290,5 @@ q(X) = (X - q_{0})(X - q_{1})...(X - q_{n-1})
 ```math
 \prod_{i\in[n]}\frac{(γ-p_{i})}{(γ-q_{i})} = 1
 ```
+
+### 如何利用Multiset來實現置換證明（Permutation Argument）
