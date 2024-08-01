@@ -238,6 +238,6 @@ r_{0} = 1
  ```math
 r_{k+1} = q_{k}*r_{k}
  ```
-
+假設現在有3個約束，第1個的起始值是1，就會有以下公式:
 
 ### 如何利用連乘證明來實現Multiset等價證明（Multiset Equality Argument）
