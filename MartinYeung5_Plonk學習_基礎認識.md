@@ -211,4 +211,7 @@ a(X)⋅b(X)=c(X),∀X∈H
  ```
 但在這公式，Verifier需要挑戰多次才可以縮小出錯概率。
 因此，需要更高效的方法來進行檢測，目標是只用一次就可以檢查出Prover是否存在作弊行為。
+```math
+a(X)⋅b(X)−c(X)=q(X)⋅z H(X),∀X∈F
+ ```
 因為可以進一步地去使用多項式承諾(Polynomial Commitment)，讓Prover負責計算x在某一任意地方的值，然後發送證明，這樣Verifier的工作量可以減少。
