@@ -319,3 +319,6 @@ a^{\prime} = (a_{i}, i) , b^{\prime} = (b_{i}, σ(i))
 ```math
 (a_{1}, 1) , (b_{1} = a_{0}, 0)
 ```
+```math
+\vdots , \vdots
+```
