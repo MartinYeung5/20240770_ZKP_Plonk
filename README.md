@@ -25,5 +25,5 @@
 * https://www.youtube.com/watch?v=O5HGp3EHDI0&list=PLbQFt1T_44DwN1zWl-KWhkp3s0LAkF2a8&index=6
 1. PLONK中的置换证明
 2. 算術約束與複製約束
-參考 2: 
+參考 2: ZKP系列课程｜PLONK中的约束
 * https://www.youtube.com/watch?v=J1P60urkGwc
