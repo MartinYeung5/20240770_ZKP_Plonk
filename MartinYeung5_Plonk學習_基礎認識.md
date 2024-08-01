@@ -343,3 +343,6 @@ a_{i}^{\prime} = (a_{i} + β*i) , b_{i}^{\prime} = (b_{i} + β*σ(i))
 ```math
 \vdots , \vdots
 ```
+```math
+(a_{1} + β*1) , (b_{1} + β*0)
+```
