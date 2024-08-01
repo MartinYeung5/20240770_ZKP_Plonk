@@ -5,6 +5,8 @@
 
 * https://en.wikibooks.org/wiki/LaTeX/Mathematics
 
+* https://learn.z2o-k7e.world/plonk-intro-cn/plonk-permutation.html
+
 ## 20240730
 1. 文章更新 - lesson 1 (MartinYeung5_Plonk學習_基礎認識)
 
