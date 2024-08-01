@@ -387,3 +387,4 @@ w_{a,1} = w_{c,2}, w_{b,1} = w_{c,3}, w_{c,0} = w_{c,1}
 σ_{a} , σ_{b} , σ_{c}
 ```
 ![alt text](https://github.com/MartinYeung5/20240770_ZKP_Plonk/blob/main/lesson5_3.png?raw=true)
+
