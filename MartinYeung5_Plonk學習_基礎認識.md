@@ -242,4 +242,5 @@ r_{k+1} = q_{k}*r_{k}
  ```math
 L_{0}*(r(X)-1) = 0 ,∀X∈F
  ```
+ 第2個約束
 ### 如何利用連乘證明來實現Multiset等價證明（Multiset Equality Argument）
