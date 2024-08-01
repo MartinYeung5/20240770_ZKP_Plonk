@@ -378,5 +378,5 @@ a_{0} = a_{2} 是正確的
 ![alt text](https://github.com/MartinYeung5/20240770_ZKP_Plonk/blob/main/lesson5_1.png?raw=true)
 會留意到有些地方的值是相等的，包括:
 ```math
-w_{a,1}
+w_{a,1} = w_{c,2}, w_{b,1} = w_{c,3}, w_{c,0} = w_{c,1}
 ```
