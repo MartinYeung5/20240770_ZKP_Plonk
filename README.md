@@ -3,6 +3,7 @@
 ## reference
 * https://docs.github.com/zh/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions
 
+數學公式:
 * https://en.wikibooks.org/wiki/LaTeX/Mathematics
 
 * https://learn.z2o-k7e.world/plonk-intro-cn/plonk-permutation.html
