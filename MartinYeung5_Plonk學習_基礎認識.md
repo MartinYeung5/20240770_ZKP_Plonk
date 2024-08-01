@@ -262,4 +262,7 @@ q(X)*r(X) = r(w.X) ,∀X∈H
 ```math
 q(X)*r(X) - r(w.X) = 0 ,∀X∈H
  ```
+ ```math
+q(X)*r(X) - r(w.X) = 0 ,∀X∈H
+ ```
 ### 如何利用連乘證明來實現Multiset等價證明（Multiset Equality Argument）
