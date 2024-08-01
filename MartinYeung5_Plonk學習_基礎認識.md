@@ -276,3 +276,4 @@ L_{0}(X)*(r(X) - 1) + α*(q(X)*r(X) - r(w.X)) = h(X)*Z_{H}(X) ,∀X∈H
 Z_{H}(X)是(X-1)(X-W)...(X-W^{n-1})
 ```
 ### 如何利用連乘證明來實現Multiset等價證明（Multiset Equality Argument）
+
