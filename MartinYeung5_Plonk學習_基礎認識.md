@@ -218,4 +218,4 @@ a(X)⋅b(X)−c(X)=q(X)⋅z H(X),∀X∈F
 
 另外，a(X)⋅b(X)−c(X)可以被多項式zH(X)整除，並得到一個商多項式q(X)。所以只要讓Prover計算出q(X)，就可以使到Verifier的工作量減少至只需進行一次隨機檢測就可知道a(X)⋅b(X)−c(X)在X∈H的條件下是否等於0。而Verifier 計算 zH(ζ) 需要 O(n) 的計算量。
 
-
+### 單位根 Roots of Unity
