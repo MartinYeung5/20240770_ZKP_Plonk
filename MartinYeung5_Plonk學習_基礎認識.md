@@ -254,5 +254,8 @@ r_{n-1} = p ,∀X∈H
 ```math
 L_{n-1}*(r(X)-r_{n-1}) = 0 ,∀X∈H
  ```
-
+利用遞歸的乘法關系:
+```math
+q(X)*r(X) = r(w.X) ,∀X∈H
+ ```
 ### 如何利用連乘證明來實現Multiset等價證明（Multiset Equality Argument）
