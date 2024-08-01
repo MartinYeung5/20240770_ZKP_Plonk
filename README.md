@@ -27,3 +27,5 @@
 2. 算術約束與複製約束
 參考 2: ZKP系列课程｜PLONK中的约束
 * https://www.youtube.com/watch?v=J1P60urkGwc
+參考 3: 理解 PLONK（四）：算术约束与拷贝约束
+* https://learn.z2o-k7e.world/plonk-intro-cn/plonk-constraints.html
