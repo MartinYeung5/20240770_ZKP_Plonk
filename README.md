@@ -20,3 +20,4 @@
 ## 20240801
 參考 1: (未看完, 4:40)
 * https://www.youtube.com/watch?v=O5HGp3EHDI0&list=PLbQFt1T_44DwN1zWl-KWhkp3s0LAkF2a8&index=6
+1. PLONK中的置换证明
