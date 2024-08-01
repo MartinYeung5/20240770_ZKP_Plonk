@@ -374,3 +374,5 @@ a_{0} = a_{2} 是正確的
 ```
 ### 向量(多個)的複製約束
 * 以下會以例子說明整個流程:
+選用矩陣W表格
+![alt text](https://github.com/MartinYeung5/20240770_ZKP_Plonk/blob/main/lesson2_6.png?raw=true)
