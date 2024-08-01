@@ -308,3 +308,4 @@ q(X) = (X - q_{0})(X - q_{1})...(X - q_{n-1})
 ```
 
 兩個向量以表格形式列出一部分:
+![alt text](https://github.com/MartinYeung5/20240770_ZKP_Plonk/blob/main/lesson4_2.png?raw=true)
