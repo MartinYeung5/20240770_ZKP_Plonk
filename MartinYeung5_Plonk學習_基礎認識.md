@@ -230,6 +230,7 @@ Plonk 的複製約束是通過置換證明（Permutation Argument）來實現。
 ### 基礎協議 - Grand Product Argument
 由於進行多項式編碼，所以會把多個單乘法壓縮成單次乘法的驗證。
 這裡可以理解成將多個約束壓縮在一起，轉換成1個可驗證的多項式。
-引入一個輔助向量
+* 引入一個輔助向量r
+*  r是每一個對上計算的結果(Accumulator)
 
 ### 如何利用連乘證明來實現Multiset等價證明（Multiset Equality Argument）
