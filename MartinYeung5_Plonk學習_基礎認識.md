@@ -293,3 +293,6 @@ q(X) = (X - q_{0})(X - q_{1})...(X - q_{n-1})
 
 ### 如何證明Multiset與置換證明（Permutation Argument）的關係
 首先，要Prover證明兩個向量是滿足奇偶位置互換的置換情況。
+```math
+\prod_{i\in[n]}\frac{(γ-p_{i})}{(γ-q_{i})} = 1
+```
