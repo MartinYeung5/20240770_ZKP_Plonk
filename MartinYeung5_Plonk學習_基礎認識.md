@@ -248,7 +248,7 @@ q(X)*r(X) = r(w.X) ,∀X∈H∖{ω-^1}
  ```
 第3個約束的公式是:  
 ```math
-q(X)*r(X) = r(w.X) ,∀X∈H∖{ω-^1}
+L_{n-1}*(r(X)-r_{n-1}) = 0 ,∀X∈H
  ```
 
 ### 如何利用連乘證明來實現Multiset等價證明（Multiset Equality Argument）
