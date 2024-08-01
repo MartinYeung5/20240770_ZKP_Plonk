@@ -225,4 +225,4 @@ a(X)⋅b(X)−c(X)=q(X)⋅z H(X),∀X∈F
 Plonk 的複製約束是通過置換證明（Permutation Argument）來實現。
 在這個矩陣W表格中(加入位置標示):
 ![alt text](https://github.com/MartinYeung5/20240770_ZKP_Plonk/blob/main/lesson4_1.png?raw=true)
-可以看到WL1 = WO2, WR1 = WO3, WO1 = WO4 。
+可以看到，WL1 = WO2, WR1 = WO3, WO1 = WO4 。
