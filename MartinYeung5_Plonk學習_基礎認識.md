@@ -222,3 +222,4 @@ a(X)⋅b(X)−c(X)=q(X)⋅z H(X),∀X∈F
 以單位根作為 H，這可使到zH(ζ)的計算量會減少至O(logn)。
 
 ## PLONK中的置換證明
+Plonk 的複製約束是通過置換證明（Permutation Argument）來實現。
