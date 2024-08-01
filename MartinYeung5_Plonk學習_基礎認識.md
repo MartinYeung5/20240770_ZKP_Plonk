@@ -220,3 +220,5 @@ a(X)⋅b(X)−c(X)=q(X)⋅z H(X),∀X∈F
 
 ### 單位根 Roots of Unity
 以單位根作為 H，這可使到zH(ζ)的計算量會減少至O(logn)。
+
+## PLONK中的置換證明
