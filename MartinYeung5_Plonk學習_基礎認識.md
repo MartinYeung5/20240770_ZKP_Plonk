@@ -389,3 +389,4 @@ w_{a,1} = w_{c,2}, w_{b,1} = w_{c,3}, w_{c,0} = w_{c,1}
 ![alt text](https://github.com/MartinYeung5/20240770_ZKP_Plonk/blob/main/lesson5_3.png?raw=true)
 
 因此，現在會有2個向量，為了進行下一步驗證，需要利用一個隨機數β來進行向量合併。
+之後再利用另一個隨機數γ
