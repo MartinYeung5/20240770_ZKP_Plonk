@@ -429,7 +429,7 @@ g_{3} = (w^{\prime}_{a,3} + β*3 + γ)(w^{\prime}_{b,3} + β*7 + γ)(w^{\prime}_
 w_{a,1} = w^{\prime}_{c,2}
 ```
 ```math
-w_{a,1} = w^{\prime}_{a,1}
+w_{c,2} = w^{\prime}_{a,1}
 ```
 所以:
 ```math
