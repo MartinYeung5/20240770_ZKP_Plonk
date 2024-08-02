@@ -426,7 +426,7 @@ g_{3} = (w^{\prime}_{a,3} + β*3 + γ)(w^{\prime}_{b,3} + β*7 + γ)(w^{\prime}_
 ```
 由於
 ```math
-w_{a} = w^{\prime}_{a} 及 w_{a,1} = w^{\prime}_{c,2}
+w_{a,1} = w^{\prime}_{c,2}
 ```
 因此:
 w_{a,1} = w^{\prime}_{a,1}
