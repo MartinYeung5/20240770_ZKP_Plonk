@@ -440,5 +440,5 @@ w_{c,2} = w^{\prime}_{a,1}
 ```
 換言之:
 ```math
-\prod_{i\in[n]}(γ-p_{i}) = \prod_{i\in[n]}(γ-q_{i})
+\prod_{x\in[H]}(γ-p_{i}) = \prod_{i\in[n]}(γ-q_{i})
 ```
