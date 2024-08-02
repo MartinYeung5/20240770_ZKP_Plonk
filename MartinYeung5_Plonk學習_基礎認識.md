@@ -440,5 +440,5 @@ w_{c,2} = w^{\prime}_{a,1}
 ```
 換言之:
 ```math
-\prod_{x\in[H]}f(X) = \prod_{i\in[n]}g(X)
+\prod_{x\in H}f(X) = \prod_{i\in[n]}g(X)
 ```
