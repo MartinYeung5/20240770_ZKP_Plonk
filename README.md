@@ -29,3 +29,6 @@
 * https://www.youtube.com/watch?v=J1P60urkGwc
 參考 3: 理解 PLONK（四）：算术约束与拷贝约束
 * https://learn.z2o-k7e.world/plonk-intro-cn/plonk-constraints.html
+
+## 20240802
+1. 算術約束與複製約束
