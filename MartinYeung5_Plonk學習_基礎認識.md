@@ -442,3 +442,7 @@ w_{c,2} = w^{\prime}_{a,1}
 ```math
 \prod_{x\in H}f(X) = \prod_{i\in H}g(X)
 ```
+\frac{n!}{k!(n-k)!}
+```math
+\prod_{x\in H}\frac{f(X)}{g(X)}
+```
