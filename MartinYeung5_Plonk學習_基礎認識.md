@@ -452,3 +452,6 @@ Z_{0} = 1, Z_{i+1} = Z_{i}*\frac{f(i)}{g(i)}
 ```
 Prover可以計算出以下的值:
 ![alt text](https://github.com/MartinYeung5/20240770_ZKP_Plonk/blob/main/lesson5_4.png?raw=true)
+```math
+如果
+```
