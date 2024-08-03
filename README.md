@@ -43,3 +43,4 @@
  Z(w*X)g(X) = z(X)f(X)
 ```
 2. A guide to Zero Knowledge Proofs
+https://medium.com/@lucafra92/a-guide-to-zero-knowledge-proofs-f2ff9e5959a8
