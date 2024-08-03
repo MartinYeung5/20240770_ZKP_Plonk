@@ -481,3 +481,4 @@ Prover可以計算出以下的值:
 
 ![alt text](https://github.com/MartinYeung5/20240770_ZKP_Plonk/blob/main/lesson5_5.png?raw=true)
 
+### 公開輸入 (Public Inputs)
