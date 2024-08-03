@@ -451,6 +451,7 @@ w_{c,2} = w^{\prime}_{a,1}
 Z_{0} = 1, Z_{i+1} = Z_{i}*\frac{f(i)}{g(i)}
 ```
 Prover可以計算出以下的值:
+
 ![alt text](https://github.com/MartinYeung5/20240770_ZKP_Plonk/blob/main/lesson5_4.png?raw=true)
 ```math
 如果\vec{f} = \vec{g}，則Z_{N}會等於1
@@ -477,4 +478,5 @@ Prover可以計算出以下的值:
 矩陣Q表格，能對加法門和乘法門進行區分。
 置換關系 σ，能描述置換的共識。
 通過矩陣Q和置換關系 σ 可以產出新的矩陣表格如何:
+
 ![alt text](https://github.com/MartinYeung5/20240770_ZKP_Plonk/blob/main/lesson5_5.png?raw=true)
