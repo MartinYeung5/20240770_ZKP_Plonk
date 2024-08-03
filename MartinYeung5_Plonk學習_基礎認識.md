@@ -467,3 +467,6 @@ Prover可以計算出以下的值:
 ```math
  Z(w^{N}) = 1
 ```
+```math
+ Z(w*X)g(X) = z(X)f(X)
+```
