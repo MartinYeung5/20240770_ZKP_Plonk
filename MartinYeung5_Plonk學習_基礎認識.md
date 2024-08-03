@@ -480,3 +480,4 @@ Prover可以計算出以下的值:
 通過矩陣Q和置換關系 σ 可以產出新的矩陣表格如何:
 
 ![alt text](https://github.com/MartinYeung5/20240770_ZKP_Plonk/blob/main/lesson5_5.png?raw=true)
+
