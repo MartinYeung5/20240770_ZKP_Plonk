@@ -42,3 +42,4 @@
 ```math
  Z(w*X)g(X) = z(X)f(X)
 ```
+2. A guide to Zero Knowledge Proofs
