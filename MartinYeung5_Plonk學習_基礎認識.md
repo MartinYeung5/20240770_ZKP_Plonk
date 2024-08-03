@@ -477,4 +477,4 @@ Prover可以計算出以下的值:
 矩陣Q表格，能對加法門和乘法門進行區分。
 置換關系 σ，能描述置換的共識。
 通過矩陣Q和置換關系 σ 可以產出新的矩陣表格如何:
-![alt text](https://github.com/MartinYeung5/20240770_ZKP_Plonk/blob/main/lesson5_4.png?raw=true)
+![alt text](https://github.com/MartinYeung5/20240770_ZKP_Plonk/blob/main/lesson5_5.png?raw=true)
