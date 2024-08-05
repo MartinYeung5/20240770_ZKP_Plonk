@@ -21,7 +21,7 @@
 * https://learn.z2o-k7e.world/plonk-intro-cn/plonk-lagrange-basis.html
 
 ## 20240801
-參考 1: (未看完, 4:40)
+參考 1:
 * https://www.youtube.com/watch?v=O5HGp3EHDI0&list=PLbQFt1T_44DwN1zWl-KWhkp3s0LAkF2a8&index=6
 1. PLONK中的置换证明
 2. 算術約束與複製約束
@@ -35,12 +35,7 @@
 
 ## 20240803
 1. 算術約束與複製約束
-* 問題: 為什麼要出現最後的公式?
-```math
- Z(w^{N}) = 1
-```
-```math
- Z(w*X)g(X) = z(X)f(X)
-```
 2. A guide to Zero Knowledge Proofs
 https://medium.com/@lucafra92/a-guide-to-zero-knowledge-proofs-f2ff9e5959a8
+
+## 20240805
