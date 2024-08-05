@@ -35,7 +35,5 @@
 
 ## 20240803
 1. 算術約束與複製約束
-2. A guide to Zero Knowledge Proofs
-https://medium.com/@lucafra92/a-guide-to-zero-knowledge-proofs-f2ff9e5959a8
 
 ## 20240805
