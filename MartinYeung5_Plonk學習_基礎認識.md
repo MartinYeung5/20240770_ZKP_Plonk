@@ -90,7 +90,7 @@ polynomial commitment
 ## PLONK算術化
 https://www.youtube.com/watch?v=L3qMBzPgfWY
 
-Plonkish算术化是PLONK證明系統特有的算术化
+Plonkish算術化是PLONK證明系統特有的算術化
 在Plonkish出現之前，其實主流的電路表達形式都是為RICS，而這表達形式已被多個零知識證明算法所使用，包括Groth16。
 學習了加法門和乘法門在運算符中的區分。
 * 以下是一個電路例子:
@@ -227,7 +227,7 @@ Plonk 的複製約束是通過置換證明（Permutation Argument）來實現。
 ![alt text](https://github.com/MartinYeung5/20240770_ZKP_Plonk/blob/main/lesson4_1.png?raw=true)
 可以看到，WL1 = WO2, WR1 = WO3, WO1 = WO4 。而置換證明可以通過轉換它們的位置，然後再證明置換後的新矩陣是等於矩陣W。
 
-### 基礎協議 - Grand Product Argument
+### 基礎協議 - 連乘證明 (Grand Product Argument)
 由於進行多項式編碼，所以會把多個單乘法壓縮成單次乘法的驗證。
 這裡可以理解成將多個約束壓縮在一起，轉換成1個可驗證的多項式。
 * 引入一個輔助向量r
